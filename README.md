@@ -50,10 +50,10 @@ The research highlights:
 This research is part of the SEEKCommons Project, that has been funded by the NSF (Award Nr. [2226425]([url](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2226425)))
 
 # References
-DOAJ. (2024). Public data dump: Journal metadata [Dataset]. https://www.doaj.org/docs/public-data-dump/
-Raoni, J. (2024). PKP Beacon [Computer software]. https://git.lib.sfu.ca/pkp/beacon
-Khanna, S., Raoni, J., Smecher, A., Alperin, J. P., Ball, J., & Willinsky, J. (2022). Details of publications using software by the Public Knowledge Project [Dataset]. Harvard Dataverse. https://doi.org/10.7910/DVN/OCZNVY
-Khanna, S., Ball, J., Alperin, J., & Willinsky, J. (2024). Data for “Recalibrating the Scope of Scholarly Publishing: A Modest Step in a Vast Decolonization Process” [Dataset]. https://github.com/j-a-ball/ojs-global/tree/main/data (Original work published 2022)
+- DOAJ. (2024). Public data dump: Journal metadata [Dataset]. https://www.doaj.org/docs/public-data-dump/
+- Raoni, J. (2024). PKP Beacon [Computer software]. https://git.lib.sfu.ca/pkp/beacon
+- Khanna, S., Raoni, J., Smecher, A., Alperin, J. P., Ball, J., & Willinsky, J. (2022). Details of publications using software by the Public Knowledge Project [Dataset]. Harvard Dataverse. https://doi.org/10.7910/DVN/OCZNVY
+- Khanna, S., Ball, J., Alperin, J., & Willinsky, J. (2024). Data for “Recalibrating the Scope of Scholarly Publishing: A Modest Step in a Vast Decolonization Process” [Dataset]. https://github.com/j-a-ball/ojs-global/tree/main/data (Original work published 2022)
 
 
 
