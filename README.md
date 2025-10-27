@@ -47,7 +47,7 @@ The research highlights:
 - Challenges to monopolistic knowledge production models
 
 ## Acknowledgement
-This research is part of the SEEKCommons Project, that has been funded by the NSF (Award Nr. [2226425]([url](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2226425)))
+This research is part of the SEEKCommons Project, which has been funded by the NSF (Award No. [2226425](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2226425)
 
 # References
 - DOAJ. (2024). Public data dump: Journal metadata [Dataset]. https://www.doaj.org/docs/public-data-dump/
